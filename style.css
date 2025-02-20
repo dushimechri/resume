@@ -1,0 +1,51 @@
+header {
+  
+}
+body {
+  background-color: gray;
+}
+figure img {
+  width: 120px;
+}
+aside {
+  display: inline-block;
+}
+main {
+  padding-top: 30px;
+  display: flex;
+}
+.me {
+  padding-left: 80px;
+}
+.date {
+  display: flex;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0;
+  padding-bottom: 0px;
+}
+.date1 {
+  padding-left: 30px;
+}
+.edu h4 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0;
+  padding-bottom: 0px;
+}
+h1 {
+  text-decoration: underline;
+}
+nav ul {
+  list-style-type: none;
+  display: flex;
+}
+nav ul li {
+  padding-left: 150px;
+  cursor: pointer;
+}
+header {
+  padding-top: 20px;
+  background-color: lightgray;
+  padding-bottom: 40px;
+}
