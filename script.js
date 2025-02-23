@@ -1,4 +1,4 @@
-""" I am going to call all my declared id's in order that if some one click on something in header, scroll to more information in body and also that subject become red"""
+
 const about = document.getElementById('about');
 const skill = document.getElementById('skill');
 const lan = document.getElementById('lan');
